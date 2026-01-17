@@ -1,2 +1,2 @@
-##Stack
+## Stack
 C++ Stack Linked List implementation
